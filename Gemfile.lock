@@ -100,7 +100,7 @@ GEM
       tzinfo (~> 0.3.37)
     acts-as-taggable-on (4.0.0)
       activerecord (>= 4.0)
-    acts_as_list (0.3.0)
+    acts_as_list (0.9.19)
       activerecord (>= 3.0)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
@@ -635,7 +635,7 @@ GEM
     thread_safe (0.3.6)
     tilt (1.4.1)
     timecop (0.9.2)
-    tzinfo (0.3.57)
+    tzinfo (0.3.58)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.7.0)
@@ -679,7 +679,7 @@ DEPENDENCIES
   activerecord-postgresql-adapter
   activerecord-session_store
   acts-as-taggable-on (~> 4.0)
-  acts_as_list (= 0.3.0)
+  acts_as_list (= 0.9.19)
   andand
   angular-rails-templates (~> 0.3.0)
   angularjs-file-upload-rails (~> 2.4.1)
